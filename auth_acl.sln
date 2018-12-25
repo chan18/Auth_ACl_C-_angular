@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auth_acl", "auth_acl\auth_acl.csproj", "{212E139D-71E7-4690-BA8A-29693BC1EF75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212E139D-71E7-4690-BA8A-29693BC1EF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212E139D-71E7-4690-BA8A-29693BC1EF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212E139D-71E7-4690-BA8A-29693BC1EF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212E139D-71E7-4690-BA8A-29693BC1EF75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6932143A-5217-419D-98FF-CCDEDD18793C}
+	EndGlobalSection
+EndGlobal
